@@ -8,7 +8,10 @@ An advanced Retrieval-Augmented Generation (RAG) system built for robustness, ac
 
 ### Phase 1: Ingestion & Embedding Pipeline
 <!-- INGESTION ARCHITECTURE IMAGE PLACEHOLDER -->
-![Ingestion and Embedding Architecture](placeholder_ingestion_architecture.png)
+<img width="1822" height="600" alt="image" src="https://github.com/user-attachments/assets/79c022c7-9a9d-4f16-b3f1-79ff5c0ba0e7" />
+
+
+
 
 1. **Document Parsing**: Extracts text from unstructured PDFs, Word documents (DOCX), Markdown, and plain text.
 2. **Parent-Child Chunking**: Splits documents into large "Parent" windows (for context) and smaller "Child" chunks (for precise embedding retrieval).
@@ -18,7 +21,8 @@ An advanced Retrieval-Augmented Generation (RAG) system built for robustness, ac
 
 ### Phase 2: Hybrid Retrieval & Generation Pipeline
 <!-- RETRIEVAL ARCHITECTURE IMAGE PLACEHOLDER -->
-![Retrieval and Generation Architecture](placeholder_retrieval_architecture.png)
+<img width="1811" height="524" alt="image" src="https://github.com/user-attachments/assets/d6d06e78-647d-4074-a666-a71b3027113b" />
+
 
 1. **Query Rewriting**: Expands the user's query into multiple semantic variants using the LLM to maximize recall.
 2. **Hybrid Search**: Executes parallel searches across the FAISS Dense index and the BM25 Sparse index.
@@ -119,3 +123,18 @@ Do *not* run `streamlit run app.py` directly. You **must** use the `run.py` laun
 ├── rag_worker.py           # Persistent background thread for Streamlit safe-execution
 └── terminal_working_app.py # Main Streamlit entry point
 ```
+
+
+
+**Embedding outputs**
+
+`index/manifest.json`: Tracks all files that have ever been uploaded to prevent duplicates.
+
+`index/faiss.index`: The compiled FAISS Database (containing all the dense vectors optimized for blazing-fast similarity search).
+
+`index/bm25.pkl`: The compiled BM25 Database (containing keyword frequencies for sparse search).
+
+`index/metadata.pkl`: An internal map linking the FAISS vector IDs back to your original child chunks.
+
+`index/parent_lookup.pkl`: An internal map linking every tiny child chunk to its massive parent window.
+
