@@ -1,0 +1,27 @@
+{
+  "doc_id": "f4802288-7c8e-4ad4-89fa-65c5df0a8d00",
+  "source_path": "inputs\\Margies Travel Company Info.pdf",
+  "original_filename": "Margies Travel Company Info.pdf",
+  "file_type": "pdf",
+  "content_hash": "9ad034792288652903b92361d257b40a0fe9c802cc6154ceb9cb4ecf108b0659",
+  "full_text": " \n \n \n \n \n \n \n \n \nWherever you want to go, Margie’s Travel can get you there! \nMargie’s Travel is a world-leading travel agency, combining international reach with local \nexpertise. Just tell us where you want to go, and we can arrange: \n• Flights \n• Accommodation \n• Transfers \n• Visas \n• Currency Exchange \n• Excursions \n \nWhere We Go \nWhile we can arrange travel to anywhere \nworldwide, we specialize in trips to: \n• Dubai \n• Las Vegas \n• London \n• New York \n• San Francisco \nWho We Are \nMargie’s Travel employs some of the \nbest travel experts in the world. Our \nleadership team consists of: \n• Marjorie Long (CEO) \n• Logan Reid (CFO) \n• Emma Luffman (CTO) \n• Deepak Nadar (Strategic Director) \n \nTo learn more about us, visit our website at www.margiestravel.com \n",
+  "structure_tier": 3,
+  "headings": [],
+  "title": null,
+  "title_source": "none",
+  "page_count": 1,
+  "language": null,
+  "ocr_used": false,
+  "parser_used": "pdf_parser",
+  "tables": [
+    {
+      "page": 1,
+      "markdown": "| Col0   | Who We Are                            | Col2   |\n|:-------|:--------------------------------------|:-------|\n|        | Margie’s Travel employs some of the   |        |\n|        | best travel experts in the world. Our |        |\n|        | leadership team consists of:          |        |\n|        | • Marjorie Long (CEO)                 |        |\n|        | • Logan Reid (CFO)                    |        |\n|        | • Emma Luffman (CTO)                  |        |\n|        | • Deepak Nadar (Strategic Director)   |        |",
+      "char_start": null,
+      "char_end": null
+    }
+  ],
+  "extraction_warnings": [],
+  "extraction_errors": [],
+  "metadata": {}
+}

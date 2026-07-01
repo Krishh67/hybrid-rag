@@ -1,0 +1,51 @@
+{
+  "doc_id": "2e83b26e-db41-4800-841b-44533e2bab0d",
+  "source_path": "inputs\\Dubai Brochure.pdf",
+  "original_filename": "Dubai Brochure.pdf",
+  "file_type": "pdf",
+  "content_hash": "80037429504752b5db2f30f6335b1bd0e4f671a17248a98dfa5e8363bc9ab804",
+  "full_text": "Margie’s Travel Presents… \nDubai \n \n \nDubai is the largest and most populous city in the United \nArab Emirates. It is located on the southeast coast of the \nPersian Gulf and is the capital of the Emirate of Dubai, \none of the seven emirates that make up the country. Abu \nDhabi and Dubai are the only two emirates to have veto \npower over critical matters of national importance in the \ncountry's Federal Supreme Council. The city of Dubai is \nlocated on the emirate's northern coastline and heads the \nDubai-Sharjah-Ajman metropolitan area. \n \n \n \n \nDubai Hotels \nMargie’s Travel offers the following accommodation \noptions in Dubai: \nThe Creek Hotel \nFriendly boutique hotel within the heart of the bustling \nDubai Creek area. \nThe Deira Hotel \nFamily-run hotel in Dubai’s traditional commercial \ncenter. \nThe Lost City Hotel \nLuxurious accommodation in Dubai, with onsite \nwaterpark and aquarium. \n \n \n \nTo book your trip to Dubai, visit www.margiestravel.com \n \n",
+  "structure_tier": 3,
+  "headings": [],
+  "title": null,
+  "title_source": "none",
+  "page_count": 1,
+  "language": null,
+  "ocr_used": false,
+  "parser_used": "pdf_parser",
+  "tables": [
+    {
+      "page": 1,
+      "markdown": "| Dubai                                                      | Col1   | Col2   | Col3   |\n|:-----------------------------------------------------------|:-------|:-------|:-------|\n| Dubai is the largest and most populous city in the United  |        |        |        |\n| Arab Emirates. It is located on the southeast coast of the |        |        |        |\n| Persian Gulf and is the capital of the Emirate of Dubai,   |        |        |        |\n| one of the seven emirates that make up the country. Abu    |        |        |        |\n| Dhabi and Dubai are the only two emirates to have veto     |        |        |        |\n| power over critical matters of national importance in the  |        |        |        |\n| country's Federal Supreme Council. The city of Dubai is    |        |        |        |\n| located on the emirate's northern coastline and heads the  |        |        |        |\n| Dubai-Sharjah-Ajman metropolitan area.                     |        |        |        |",
+      "char_start": null,
+      "char_end": null
+    },
+    {
+      "page": 1,
+      "markdown": "| Dubai Hotels                                       | Col1   |\n|:---------------------------------------------------|:-------|\n| Margie’s Travel offers the following accommodation |        |\n| options in Dubai:                                  |        |",
+      "char_start": null,
+      "char_end": null
+    },
+    {
+      "page": 1,
+      "markdown": "| The Creek Hotel                                          | Col1   | Col2   |\n|:---------------------------------------------------------|:-------|:-------|\n| Friendly boutique hotel within the heart of the bustling |        |        |\n| Dubai Creek area.                                        |        |        |",
+      "char_start": null,
+      "char_end": null
+    },
+    {
+      "page": 1,
+      "markdown": "| The Deira Hotel                                    | Col1   | Col2   |\n|:---------------------------------------------------|:-------|:-------|\n| Family-run hotel in Dubai’s traditional commercial |        |        |\n| center.                                            |        |        |",
+      "char_start": null,
+      "char_end": null
+    },
+    {
+      "page": 1,
+      "markdown": "| The Lost City Hotel                           | Col1   | Col2   |\n|:----------------------------------------------|:-------|:-------|\n| Luxurious accommodation in Dubai, with onsite |        |        |\n| waterpark and aquarium.                       |        |        |",
+      "char_start": null,
+      "char_end": null
+    }
+  ],
+  "extraction_warnings": [],
+  "extraction_errors": [],
+  "metadata": {}
+}

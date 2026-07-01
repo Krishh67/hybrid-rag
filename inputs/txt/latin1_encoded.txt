@@ -1,0 +1,1 @@
+Rapport d'ingestion - café, naïve, déjà vu. Caractères accentués pour tester l'encodage.

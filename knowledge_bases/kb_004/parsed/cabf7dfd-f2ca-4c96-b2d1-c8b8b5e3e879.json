@@ -1,0 +1,56 @@
+{
+  "doc_id": "cabf7dfd-f2ca-4c96-b2d1-c8b8b5e3e879",
+  "source_path": "inputs\\bookmarks_native.pdf",
+  "original_filename": "bookmarks_native.pdf",
+  "file_type": "pdf",
+  "content_hash": "8014b97373269a10a87c1551d80f1b47de6da2a4ff7ea8caba9f6f8dc88149ea",
+  "full_text": "Research Paper With Real Bookmarks\nSection 1\nThis is sample content for ingestion testing. This is sample content for ingestion testing. This is sample\ncontent for ingestion testing. This is sample content for ingestion testing. This is sample content for\ningestion testing. This is sample content for ingestion testing. This is sample content for ingestion\ntesting. This is sample content for ingestion testing. This is sample content for ingestion testing. This is\nsample content for ingestion testing. This is sample content for ingestion testing. This is sample content\nfor ingestion testing. This is sample content for ingestion testing. This is sample content for ingestion\ntesting. This is sample content for ingestion testing. This is sample content for ingestion testing. This is\nsample content for ingestion testing. This is sample content for ingestion testing. This is sample content\nfor ingestion testing. This is sample content for ingestion testing.\nSection 2\nThis is sample content for ingestion testing. This is sample content for ingestion testing. This is sample\ncontent for ingestion testing. This is sample content for ingestion testing. This is sample content for\ningestion testing. This is sample content for ingestion testing. This is sample content for ingestion\ntesting. This is sample content for ingestion testing. This is sample content for ingestion testing. This is\nsample content for ingestion testing. This is sample content for ingestion testing. This is sample content\nfor ingestion testing. This is sample content for ingestion testing. This is sample content for ingestion\ntesting. This is sample content for ingestion testing. This is sample content for ingestion testing. This is\nsample content for ingestion testing. This is sample content for ingestion testing. This is sample content\nfor ingestion testing. This is sample content for ingestion testing.\nSection 3\nThis is sample content for ingestion testing. This is sample content for ingestion testing. This is sample\ncontent for ingestion testing. This is sample content for ingestion testing. This is sample content for\ningestion testing. This is sample content for ingestion testing. This is sample content for ingestion\ntesting. This is sample content for ingestion testing. This is sample content for ingestion testing. This is\nsample content for ingestion testing. This is sample content for ingestion testing. This is sample content\nfor ingestion testing. This is sample content for ingestion testing. This is sample content for ingestion\ntesting. This is sample content for ingestion testing. This is sample content for ingestion testing. This is\nsample content for ingestion testing. This is sample content for ingestion testing. This is sample content\nfor ingestion testing. This is sample content for ingestion testing.\nSection 4\nThis is sample content for ingestion testing. This is sample content for ingestion testing. This is sample\ncontent for ingestion testing. This is sample content for ingestion testing. This is sample content for\ningestion testing. This is sample content for ingestion testing. This is sample content for ingestion\n\ntesting. This is sample content for ingestion testing. This is sample content for ingestion testing. This is\nsample content for ingestion testing. This is sample content for ingestion testing. This is sample content\nfor ingestion testing. This is sample content for ingestion testing. This is sample content for ingestion\ntesting. This is sample content for ingestion testing. This is sample content for ingestion testing. This is\nsample content for ingestion testing. This is sample content for ingestion testing. This is sample content\nfor ingestion testing. This is sample content for ingestion testing.\nSection 5\nThis is sample content for ingestion testing. This is sample content for ingestion testing. This is sample\ncontent for ingestion testing. This is sample content for ingestion testing. This is sample content for\ningestion testing. This is sample content for ingestion testing. This is sample content for ingestion\ntesting. This is sample content for ingestion testing. This is sample content for ingestion testing. This is\nsample content for ingestion testing. This is sample content for ingestion testing. This is sample content\nfor ingestion testing. This is sample content for ingestion testing. This is sample content for ingestion\ntesting. This is sample content for ingestion testing. This is sample content for ingestion testing. This is\nsample content for ingestion testing. This is sample content for ingestion testing. This is sample content\nfor ingestion testing. This is sample content for ingestion testing.\nSection 6\nThis is sample content for ingestion testing. This is sample content for ingestion testing. This is sample\ncontent for ingestion testing. This is sample content for ingestion testing. This is sample content for\ningestion testing. This is sample content for ingestion testing. This is sample content for ingestion\ntesting. This is sample content for ingestion testing. This is sample content for ingestion testing. This is\nsample content for ingestion testing. This is sample content for ingestion testing. This is sample content\nfor ingestion testing. This is sample content for ingestion testing. This is sample content for ingestion\ntesting. This is sample content for ingestion testing. This is sample content for ingestion testing. This is\nsample content for ingestion testing. This is sample content for ingestion testing. This is sample content\nfor ingestion testing. This is sample content for ingestion testing.\n",
+  "structure_tier": 1,
+  "headings": [
+    {
+      "level": 1,
+      "text": "Research Paper With Real Bookmarks",
+      "char_offset": 0
+    },
+    {
+      "level": 2,
+      "text": "Section 1",
+      "char_offset": 35
+    },
+    {
+      "level": 2,
+      "text": "Section 2",
+      "char_offset": 965
+    },
+    {
+      "level": 2,
+      "text": "Section 3",
+      "char_offset": 1895
+    },
+    {
+      "level": 2,
+      "text": "Section 4",
+      "char_offset": 2825
+    },
+    {
+      "level": 2,
+      "text": "Section 5",
+      "char_offset": 3756
+    },
+    {
+      "level": 2,
+      "text": "Section 6",
+      "char_offset": 4686
+    }
+  ],
+  "title": "Research Paper With Real Bookmarks",
+  "title_source": "native",
+  "page_count": 2,
+  "language": null,
+  "ocr_used": false,
+  "parser_used": "pdf_parser",
+  "tables": [],
+  "extraction_warnings": [],
+  "extraction_errors": [],
+  "metadata": {}
+}

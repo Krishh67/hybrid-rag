@@ -1,0 +1,36 @@
+[
+  {
+    "chunk_id": "3048116b-2f16-48d8-af28-c38cb5ad49e3",
+    "parent_window_id": "none",
+    "segment_id": "none",
+    "chunk_text": "| Col0   | Who We Are                            | Col2   |\n|:-------|:--------------------------------------|:-------|\n|        | Margie\u2019s Travel employs some of the   |        |\n|        | best travel experts in the world. Our |        |\n|        | leadership team consists of:          |        |\n|        | \u2022 Marjorie Long (CEO)                 |        |\n|        | \u2022 Logan Reid (CFO)                    |        |\n|        | \u2022 Emma Luffman (CTO)                  |        |\n|        | \u2022 Deepak Nadar (Strategic Director)   |        |",
+    "embed_text": "| Col0   | Who We Are                            | Col2   |\n|:-------|:--------------------------------------|:-------|\n|        | Margie\u2019s Travel employs some of the   |        |\n|        | best travel experts in the world. Our |        |\n|        | leadership team consists of:          |        |\n|        | \u2022 Marjorie Long (CEO)                 |        |\n|        | \u2022 Logan Reid (CFO)                    |        |\n|        | \u2022 Emma Luffman (CTO)                  |        |\n|        | \u2022 Deepak Nadar (Strategic Director)   |        |",
+    "char_start": 0,
+    "char_end": 539,
+    "token_count": 127,
+    "metadata": {
+      "doc_id": "f4802288-7c8e-4ad4-89fa-65c5df0a8d00",
+      "original_filename": "Margies Travel Company Info.pdf",
+      "title": null,
+      "heading_path": [],
+      "chunk_type": "table"
+    }
+  },
+  {
+    "chunk_id": "9c301013-bdfb-4919-b3f5-d8e1301a7864",
+    "parent_window_id": "6bf0b2a3-38a4-4b60-951a-8324ee311de8",
+    "segment_id": "96eb2658-b2a6-4673-ad49-f28d61654e8d",
+    "chunk_text": "Wherever you want to go, Margie\u2019s Travel can get you there! \nMargie\u2019s Travel is a world-leading travel agency, combining international reach with local \nexpertise. Just tell us where you want to go, and we can arrange: \n\u2022 Flights \n\u2022 Accommodation \n\u2022 Transfers \n\u2022 Visas \n\u2022 Currency Exchange \n\u2022 Excursions \n \nWhere We Go \nWhile we can arrange travel to anywhere \nworldwide, we specialize in trips to: \n\u2022 Dubai \n\u2022 Las Vegas \n\u2022 London \n\u2022 New York \n\u2022 San Francisco \nWho We Are \nMargie\u2019s Travel employs some of the \nbest travel experts in the world. Our \nleadership team consists of: \n\u2022 Marjorie Long (CEO) \n\u2022 Logan Reid (CFO) \n\u2022 Emma Luffman (CTO) \n\u2022 Deepak Nadar (Strategic Director) \n \nTo learn more about us, visit our website at www.margiestravel.com",
+    "embed_text": "Wherever you want to go, Margie\u2019s Travel can get you there! \nMargie\u2019s Travel is a world-leading travel agency, combining international reach with local \nexpertise. Just tell us where you want to go, and we can arrange: \n\u2022 Flights \n\u2022 Accommodation \n\u2022 Transfers \n\u2022 Visas \n\u2022 Currency Exchange \n\u2022 Excursions \n \nWhere We Go \nWhile we can arrange travel to anywhere \nworldwide, we specialize in trips to: \n\u2022 Dubai \n\u2022 Las Vegas \n\u2022 London \n\u2022 New York \n\u2022 San Francisco \nWho We Are \nMargie\u2019s Travel employs some of the \nbest travel experts in the world. Our \nleadership team consists of: \n\u2022 Marjorie Long (CEO) \n\u2022 Logan Reid (CFO) \n\u2022 Emma Luffman (CTO) \n\u2022 Deepak Nadar (Strategic Director) \n \nTo learn more about us, visit our website at www.margiestravel.com",
+    "char_start": 18,
+    "char_end": 767,
+    "token_count": 199,
+    "metadata": {
+      "doc_id": "f4802288-7c8e-4ad4-89fa-65c5df0a8d00",
+      "original_filename": "Margies Travel Company Info.pdf",
+      "title": null,
+      "heading_path": [],
+      "chunk_type": "text"
+    }
+  }
+]

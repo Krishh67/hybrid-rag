@@ -1,0 +1,19 @@
+[
+  {
+    "chunk_id": "531776cd-ed7c-4b37-a35a-dce784b26966",
+    "parent_window_id": "1ddf55de-e4b1-4ba1-9452-78c9df7434ba",
+    "segment_id": "c448d02b-a169-4ab1-8591-a21f794a9206",
+    "chunk_text": "Contoso Ltd\n\n2 Main St, Bigtown, England, EH1 234\n\nTel: 555 123-4567\n\nCustomer Name:\nAddress:\n\nItem\n42mm Widget\n\n5mm screws pack\n\nAva Jones\n\n321 Pond Lane\nWaterville\nEngland\n\nGL1 010\n\nPrice\n26.50\n5.99\n\nInvoice No: = 1235\n\nDate: 03/07/2025\nQuantity Item Total\n3 79.50\n2 11.98\nSubtotal 91.48\nTax 9.14\nShipping 15.00\nTotal Due 115.62",
+    "embed_text": "Contoso Ltd\n\n2 Main St, Bigtown, England, EH1 234\n\nTel: 555 123-4567\n\nCustomer Name:\nAddress:\n\nItem\n42mm Widget\n\n5mm screws pack\n\nAva Jones\n\n321 Pond Lane\nWaterville\nEngland\n\nGL1 010\n\nPrice\n26.50\n5.99\n\nInvoice No: = 1235\n\nDate: 03/07/2025\nQuantity Item Total\n3 79.50\n2 11.98\nSubtotal 91.48\nTax 9.14\nShipping 15.00\nTotal Due 115.62",
+    "char_start": 0,
+    "char_end": 330,
+    "token_count": 131,
+    "metadata": {
+      "doc_id": "93cf719f-3901-4320-9e9e-19cf980fa3b8",
+      "original_filename": "invoice-1235.pdf",
+      "title": null,
+      "heading_path": [],
+      "chunk_type": "text"
+    }
+  }
+]

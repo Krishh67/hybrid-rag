@@ -1,0 +1,22 @@
+{
+  "doc_id": "cd0a7d79-59af-4ccb-9027-e7ac0741aa68",
+  "source_path": "inputs\\Cns PYQS.pdf",
+  "original_filename": "Cns PYQS.pdf",
+  "file_type": "pdf",
+  "content_hash": "024f977bd0ac90e2a1fcfedb3a369015e8f845a5e97e2d678fb78a07f7d239df",
+  "full_text": "Chp 6 \nCns PYQS\n14 November 2025\n19:36\n   \nCns chp 6PYQS Page 1\n   \n",
+  "structure_tier": 3,
+  "headings": [],
+  "title": null,
+  "title_source": "none",
+  "page_count": 1,
+  "language": null,
+  "ocr_used": false,
+  "parser_used": "pdf_parser",
+  "tables": [],
+  "extraction_warnings": [
+    "Low extracted text length: 68 characters."
+  ],
+  "extraction_errors": [],
+  "metadata": {}
+}

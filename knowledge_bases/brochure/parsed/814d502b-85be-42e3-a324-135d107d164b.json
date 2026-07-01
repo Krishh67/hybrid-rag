@@ -1,0 +1,51 @@
+{
+  "doc_id": "814d502b-85be-42e3-a324-135d107d164b",
+  "source_path": "inputs\\New York Brochure.pdf",
+  "original_filename": "New York Brochure.pdf",
+  "file_type": "pdf",
+  "content_hash": "7157096a049777ad7e73697fda45c426e12b4d7fab6a6a5480670c4b4805e935",
+  "full_text": "Margie’s Travel Presents… \nNew York \nThe City of New York, often called New York City or simply \nNew York, is the most populous city in the United States. \nWith an estimated 2015 population of 8,550,405 distributed \nover a land area of about 302.6 square miles, New York \nCity is also the most densely populated major city in the \nUnited States. Located at the southern tip of the state of \nNew York, the city is the center of the New York \nmetropolitan area, one of the most populous urban \nagglomerations in the world. A global power city, New York \nCity exerts a significant impact upon commerce, finance, \nmedia, art, fashion, research, technology, education, and \nentertainment, its fast pace defining the term New York \nminute. Home to the headquarters of the United Nations, \nNew York is an important center for international diplomacy \nand has been described as the cultural and financial capital \nof the world. \n \nNew York Hotels \nMargie’s Travel offers the following accommodation options \nin New York: \nThe Manhattan Hotel \nStay in the heart of New York City, within an easy walk to \nTimes Square and Broadway. \nThe Grand Central Hotel \nComfortable mid-town hotel. Close to Grand Central \nStation, the Chrysler Building, and the Empire State \nBuilding. \nThe Park Hotel \nLuxurious accommodation in upper Manhattan, with views \nof Central Park. \n \n \nTo book your trip to New York, visit www.margiestravel.com \n \n",
+  "structure_tier": 3,
+  "headings": [],
+  "title": null,
+  "title_source": "none",
+  "page_count": 1,
+  "language": null,
+  "ocr_used": false,
+  "parser_used": "pdf_parser",
+  "tables": [
+    {
+      "page": 1,
+      "markdown": "| The City of New York, often called New York City or simply   | Col1   | Col2   |\n|:-------------------------------------------------------------|:-------|:-------|\n| New York, is the most populous city in the United States     |        | .      |\n| With an estimated 2015 population of 8,550,405 distributed   |        |        |\n| over a land area of about 302.6 square miles, New York       |        |        |\n| City is also the most densely populated major city in the    |        |        |\n| United States. Located at the southern tip of the state of   |        |        |\n| New York, the city is the center of the New York             |        |        |\n| metropolitan area, one of the most populous urban            |        |        |\n| agglomerations in the world. A global power city, New York   |        |        |\n| City exerts a significant impact upon commerce, finance      |        | ,      |\n|                                                              |        | d      |\n|                                                              |        | ,      |\n| media, art, fashion, research, technology, education, an     |        |        |\n| entertainment, its fast pace defining the term New York      |        |        |\n| minute. Home to the headquarters of the United Nations       |        |        |\n| New York is an important center for international diplomacy  |        |        |\n| and has been described as the cultural and financial capita  |        |        |\n| of the world.                                                |        |        |",
+      "char_start": null,
+      "char_end": null
+    },
+    {
+      "page": 1,
+      "markdown": "| New York Hotels                                            | Col1   |\n|:-----------------------------------------------------------|:-------|\n| Margie’s Travel offers the following accommodation options |        |\n| in New York:                                               |        |",
+      "char_start": null,
+      "char_end": null
+    },
+    {
+      "page": 1,
+      "markdown": "| The Manhattan Hotel                                        | Col1   | Col2   |\n|:-----------------------------------------------------------|:-------|:-------|\n| Stay in the heart of New York City, within an easy walk to |        |        |\n| Times Square and Broadway.                                 |        |        |",
+      "char_start": null,
+      "char_end": null
+    },
+    {
+      "page": 1,
+      "markdown": "| The Grand Central Hotel                              | Col1   | Col2   |\n|:-----------------------------------------------------|:-------|:-------|\n| Comfortable mid-town hotel. Close to Grand Central   |        |        |\n| Station, the Chrysler Building, and the Empire State |        |        |\n| Building.                                            |        |        |",
+      "char_start": null,
+      "char_end": null
+    },
+    {
+      "page": 1,
+      "markdown": "| The Park Hotel                                         | Col1   |\n|:-------------------------------------------------------|:-------|\n| Luxurious accommodation in upper Manhattan, with views |        |\n| of Central Park.                                       |        |",
+      "char_start": null,
+      "char_end": null
+    }
+  ],
+  "extraction_warnings": [],
+  "extraction_errors": [],
+  "metadata": {}
+}

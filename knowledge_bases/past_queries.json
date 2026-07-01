@@ -1,0 +1,9 @@
+[
+  {
+    "timestamp": "2026-06-30T23:05:59.887438",
+    "query": "section 1",
+    "kb_used": "knowledge_bases\\kb_004",
+    "response_length": 69,
+    "model_used": "gemini-2.5-flash"
+  }
+]

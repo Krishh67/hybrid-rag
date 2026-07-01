@@ -1,0 +1,74 @@
+[
+  {
+    "parent_window_id": "70d0ad3a-4e8f-4289-9f32-56d682ca67fc",
+    "segment_id": "9c01c69f-2cae-42b8-8d14-adb5083c0b02",
+    "doc_id": "a5385d71-91cd-414f-8d6d-7f1716288ce9",
+    "char_start": 0,
+    "char_end": 2911,
+    "token_count": 651
+  },
+  {
+    "parent_window_id": "928be326-c268-400b-91a3-f840bd39bdae",
+    "segment_id": "814a51c5-7b20-4bb5-9027-e1aa065d255d",
+    "doc_id": "a5385d71-91cd-414f-8d6d-7f1716288ce9",
+    "char_start": 2912,
+    "char_end": 2952,
+    "token_count": 11
+  },
+  {
+    "parent_window_id": "cf32c3a3-fda9-425b-ba6d-c35f202742a0",
+    "segment_id": "1bfc5111-755f-459b-939e-747dbede3a55",
+    "doc_id": "a5385d71-91cd-414f-8d6d-7f1716288ce9",
+    "char_start": 2953,
+    "char_end": 4015,
+    "token_count": 241
+  },
+  {
+    "parent_window_id": "7bef1965-eaab-42fd-8f93-60329489d48b",
+    "segment_id": "9d595f46-9ee4-471d-8e5a-ec4bc2e0d9f5",
+    "doc_id": "a5385d71-91cd-414f-8d6d-7f1716288ce9",
+    "char_start": 4016,
+    "char_end": 4044,
+    "token_count": 8
+  },
+  {
+    "parent_window_id": "1195dc6e-c128-45d1-b307-a396bb0a29bd",
+    "segment_id": "230ad5c1-4f83-4062-bca7-fe7b3e7d9f89",
+    "doc_id": "a5385d71-91cd-414f-8d6d-7f1716288ce9",
+    "char_start": 4045,
+    "char_end": 4058,
+    "token_count": 2
+  },
+  {
+    "parent_window_id": "dd1c5b76-88ba-4439-a6a6-4c3212a93ece",
+    "segment_id": "eca08172-0c9f-4217-b912-678974255197",
+    "doc_id": "a5385d71-91cd-414f-8d6d-7f1716288ce9",
+    "char_start": 4060,
+    "char_end": 4108,
+    "token_count": 8
+  },
+  {
+    "parent_window_id": "14ac7bd1-f2b7-4c08-a9b9-e3bbca5cea66",
+    "segment_id": "0bd0a17d-343e-4629-a74e-d16e2e7dec5b",
+    "doc_id": "a5385d71-91cd-414f-8d6d-7f1716288ce9",
+    "char_start": 4110,
+    "char_end": 4651,
+    "token_count": 116
+  },
+  {
+    "parent_window_id": "f5542483-e190-4c49-bc9b-7e07cc2438a5",
+    "segment_id": "978527e8-4ee9-4d29-86d1-aa139ef154e8",
+    "doc_id": "a5385d71-91cd-414f-8d6d-7f1716288ce9",
+    "char_start": 4653,
+    "char_end": 4924,
+    "token_count": 59
+  },
+  {
+    "parent_window_id": "6d49c700-8c2c-4236-b940-efdd152974dc",
+    "segment_id": "70a4e5ca-5c72-4508-a434-231a34b8ffb7",
+    "doc_id": "a5385d71-91cd-414f-8d6d-7f1716288ce9",
+    "char_start": 4928,
+    "char_end": 5545,
+    "token_count": 233
+  }
+]

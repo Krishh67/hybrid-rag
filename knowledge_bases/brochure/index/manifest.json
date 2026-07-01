@@ -1,0 +1,45 @@
+{
+  "kb_id": "brochure",
+  "total_documents": 7,
+  "total_chunks": 28,
+  "embedding_model": "BAAI/bge-m3",
+  "indexed_doc_ids": [
+    "2e83b26e-db41-4800-841b-44533e2bab0d",
+    "570900fb-5993-4076-a40c-b9a3c17cf5f1",
+    "814d502b-85be-42e3-a324-135d107d164b",
+    "8ec0faaf-f9f8-425d-a39e-c28c10623dcf",
+    "9d3c7712-b7e7-4c00-908e-7ac01171e69b",
+    "f4802288-7c8e-4ad4-89fa-65c5df0a8d00",
+    "93cf719f-3901-4320-9e9e-19cf980fa3b8"
+  ],
+  "indexed_content_hashes": {
+    "80037429504752b5db2f30f6335b1bd0e4f671a17248a98dfa5e8363bc9ab804": {
+      "doc_id": "2e83b26e-db41-4800-841b-44533e2bab0d",
+      "original_filename": "Dubai Brochure.pdf"
+    },
+    "a6c384253669c62dd49314c0808d55e1d34b0b53648a8d64bbc652bc9e578deb": {
+      "doc_id": "570900fb-5993-4076-a40c-b9a3c17cf5f1",
+      "original_filename": "San Francisco Brochure.pdf"
+    },
+    "7157096a049777ad7e73697fda45c426e12b4d7fab6a6a5480670c4b4805e935": {
+      "doc_id": "814d502b-85be-42e3-a324-135d107d164b",
+      "original_filename": "New York Brochure.pdf"
+    },
+    "f051ac81867b48318223e6c3616c93446476e5b950f51cffba8c59b0b7f9f343": {
+      "doc_id": "8ec0faaf-f9f8-425d-a39e-c28c10623dcf",
+      "original_filename": "Las Vegas Brochure.pdf"
+    },
+    "5d0d66a45f51a9026faf25b2d51e5645fed6f091e592ae1eb36c2d0ab70bf2f7": {
+      "doc_id": "9d3c7712-b7e7-4c00-908e-7ac01171e69b",
+      "original_filename": "London Brochure.pdf"
+    },
+    "9ad034792288652903b92361d257b40a0fe9c802cc6154ceb9cb4ecf108b0659": {
+      "doc_id": "f4802288-7c8e-4ad4-89fa-65c5df0a8d00",
+      "original_filename": "Margies Travel Company Info.pdf"
+    },
+    "253dc6621b7e54601da362bd89de51ed0de95f869995a8e1de256b64ecaa0239": {
+      "doc_id": "93cf719f-3901-4320-9e9e-19cf980fa3b8",
+      "original_filename": "invoice-1235.pdf"
+    }
+  }
+}

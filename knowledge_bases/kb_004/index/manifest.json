@@ -1,0 +1,35 @@
+{
+  "kb_id": "kb_004",
+  "total_documents": 5,
+  "total_chunks": 20,
+  "embedding_model": "BAAI/bge-m3",
+  "indexed_doc_ids": [
+    "cabf7dfd-f2ca-4c96-b2d1-c8b8b5e3e879",
+    "a5385d71-91cd-414f-8d6d-7f1716288ce9",
+    "cd0a7d79-59af-4ccb-9027-e7ac0741aa68",
+    "bd0eb6dc-505b-4545-9eaa-bdca4511747a",
+    "3ec33591-7749-4a65-8c81-c5db1ff8a46d"
+  ],
+  "indexed_content_hashes": {
+    "8014b97373269a10a87c1551d80f1b47de6da2a4ff7ea8caba9f6f8dc88149ea": {
+      "doc_id": "cabf7dfd-f2ca-4c96-b2d1-c8b8b5e3e879",
+      "original_filename": "bookmarks_native.pdf"
+    },
+    "0926d4b2480537b5f6191d502dce54678787d7d8a2c0f1cad7545e0158748369": {
+      "doc_id": "a5385d71-91cd-414f-8d6d-7f1716288ce9",
+      "original_filename": "A154_ResearchPaper.pdf"
+    },
+    "024f977bd0ac90e2a1fcfedb3a369015e8f845a5e97e2d678fb78a07f7d239df": {
+      "doc_id": "cd0a7d79-59af-4ccb-9027-e7ac0741aa68",
+      "original_filename": "Cns PYQS.pdf"
+    },
+    "f464789723d2f4341a8df529c1168c1ba1e09a466b1aa51b1860218a7641cda7": {
+      "doc_id": "bd0eb6dc-505b-4545-9eaa-bdca4511747a",
+      "original_filename": "invoice-1234.pdf"
+    },
+    "253dc6621b7e54601da362bd89de51ed0de95f869995a8e1de256b64ecaa0239": {
+      "doc_id": "3ec33591-7749-4a65-8c81-c5db1ff8a46d",
+      "original_filename": "invoice-1235.pdf"
+    }
+  }
+}

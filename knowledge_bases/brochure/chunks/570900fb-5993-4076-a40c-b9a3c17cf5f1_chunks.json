@@ -1,0 +1,53 @@
+[
+  {
+    "chunk_id": "3136898a-9047-4922-aa6e-12984c88c08d",
+    "parent_window_id": "none",
+    "segment_id": "none",
+    "chunk_text": "| San Francisco Hotels                                       | Col1   |\n|:-----------------------------------------------------------|:-------|\n| Margie\u2019s Travel offers the following accommodation options |        |\n| in San Francisco:                                          |        |",
+    "embed_text": "| San Francisco Hotels                                       | Col1   |\n|:-----------------------------------------------------------|:-------|\n| Margie\u2019s Travel offers the following accommodation options |        |\n| in San Francisco:                                          |        |",
+    "char_start": 27,
+    "char_end": 314,
+    "token_count": 40,
+    "metadata": {
+      "doc_id": "570900fb-5993-4076-a40c-b9a3c17cf5f1",
+      "original_filename": "San Francisco Brochure.pdf",
+      "title": null,
+      "heading_path": [],
+      "chunk_type": "table"
+    }
+  },
+  {
+    "chunk_id": "b736d992-8d08-40ac-b437-26f6db881c8a",
+    "parent_window_id": "none",
+    "segment_id": "none",
+    "chunk_text": "| The Lombard Hotel                                          | Col1   | Col2   |\n|:-----------------------------------------------------------|:-------|:-------|\n| Friendly, family-run hotel within easy walking distance to |        |        |\n| popular sights, including the Golden Gate Bridge and the   |        |        |\n| Presidio. Free Parking.                                    |        |        |",
+    "embed_text": "| The Lombard Hotel                                          | Col1   | Col2   |\n|:-----------------------------------------------------------|:-------|:-------|\n| Friendly, family-run hotel within easy walking distance to |        |        |\n| popular sights, including the Golden Gate Bridge and the   |        |        |\n| Presidio. Free Parking.                                    |        |        |",
+    "char_start": 870,
+    "char_end": 1274,
+    "token_count": 73,
+    "metadata": {
+      "doc_id": "570900fb-5993-4076-a40c-b9a3c17cf5f1",
+      "original_filename": "San Francisco Brochure.pdf",
+      "title": null,
+      "heading_path": [],
+      "chunk_type": "table"
+    }
+  },
+  {
+    "chunk_id": "3ebc9bd3-0701-4bfe-be41-98a162cde2ad",
+    "parent_window_id": "c3719f62-8282-46e5-ae7d-495f858f6b26",
+    "segment_id": "33c27d0f-1e08-44ce-bf9f-fb013e901ab7",
+    "chunk_text": "Margie\u2019s Travel Presents\u2026 \nSan Francisco \nSan Francisco, officially the City and County of San \nFrancisco, is the cultural, commercial, and financial \ncenter of Northern California. It is the birthplace of \nthe United Nations. Located at the north end of the \nSan Francisco Peninsula, San Francisco is about \n47.9 square miles in area, making it the smallest \ncounty\u2014and the only consolidated city-county\u2014\nwithin the state of California. With a density of about \n18,581 people per square mile, San Francisco is the \nmost densely settled large city in California and the \nsecond-most densely populated major city in the \nUnited States after New York City. San Francisco is \nthe fourth-most populous city in California, after Los \nAngeles, San Diego, and San Jose, and the 13th-\nmost populous city in the United States\u2014with a \ncensus-estimated 2016 population of 870,887. The \ncity and its surrounding areas are known as the San \nFrancisco Bay Area, and are a part of the larger \nOMB-designated San Jose-San Francisco-Oakland \ncombined statistical area, the fifth most populous in \nthe nation with an estimated population of 8.7 million. \n \nSan Francisco Hotels \nMargie\u2019s Travel offers the following accommodation options \nin San Francisco: \nThe Lombard Hotel \nFriendly, family-run hotel within easy walking distance to \npopular sights, including the Golden Gate Bridge and the \nPresidio. Free Parking. \nThe Wharf Hotel \nGreat value accommodation in the heart of the vibrant \nFisherman\u2019s Wharf area. Continental Breakfast included. \n \n \n \n \nTo book your trip to San Francisco, visit www.margiestravel.com",
+    "embed_text": "Margie\u2019s Travel Presents\u2026 \nSan Francisco \nSan Francisco, officially the City and County of San \nFrancisco, is the cultural, commercial, and financial \ncenter of Northern California. It is the birthplace of \nthe United Nations. Located at the north end of the \nSan Francisco Peninsula, San Francisco is about \n47.9 square miles in area, making it the smallest \ncounty\u2014and the only consolidated city-county\u2014\nwithin the state of California. With a density of about \n18,581 people per square mile, San Francisco is the \nmost densely settled large city in California and the \nsecond-most densely populated major city in the \nUnited States after New York City. San Francisco is \nthe fourth-most populous city in California, after Los \nAngeles, San Diego, and San Jose, and the 13th-\nmost populous city in the United States\u2014with a \ncensus-estimated 2016 population of 870,887. The \ncity and its surrounding areas are known as the San \nFrancisco Bay Area, and are a part of the larger \nOMB-designated San Jose-San Francisco-Oakland \ncombined statistical area, the fifth most populous in \nthe nation with an estimated population of 8.7 million. \n \nSan Francisco Hotels \nMargie\u2019s Travel offers the following accommodation options \nin San Francisco: \nThe Lombard Hotel \nFriendly, family-run hotel within easy walking distance to \npopular sights, including the Golden Gate Bridge and the \nPresidio. Free Parking. \nThe Wharf Hotel \nGreat value accommodation in the heart of the vibrant \nFisherman\u2019s Wharf area. Continental Breakfast included. \n \n \n \n \nTo book your trip to San Francisco, visit www.margiestravel.com",
+    "char_start": 0,
+    "char_end": 1602,
+    "token_count": 357,
+    "metadata": {
+      "doc_id": "570900fb-5993-4076-a40c-b9a3c17cf5f1",
+      "original_filename": "San Francisco Brochure.pdf",
+      "title": null,
+      "heading_path": [],
+      "chunk_type": "text"
+    }
+  }
+]

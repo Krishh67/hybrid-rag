@@ -1,0 +1,104 @@
+[
+  {
+    "chunk_id": "21589ee3-26bc-4c05-838f-14420ca870c6",
+    "parent_window_id": "none",
+    "segment_id": "none",
+    "chunk_text": "| Dubai                                                      | Col1   | Col2   | Col3   |\n|:-----------------------------------------------------------|:-------|:-------|:-------|\n| Dubai is the largest and most populous city in the United  |        |        |        |\n| Arab Emirates. It is located on the southeast coast of the |        |        |        |\n| Persian Gulf and is the capital of the Emirate of Dubai,   |        |        |        |\n| one of the seven emirates that make up the country. Abu    |        |        |        |\n| Dhabi and Dubai are the only two emirates to have veto     |        |        |        |\n| power over critical matters of national importance in the  |        |        |        |\n| country's Federal Supreme Council. The city of Dubai is    |        |        |        |\n| located on the emirate's northern coastline and heads the  |        |        |        |\n| Dubai-Sharjah-Ajman metropolitan area.                     |        |        |        |",
+    "embed_text": "| Dubai                                                      | Col1   | Col2   | Col3   |\n|:-----------------------------------------------------------|:-------|:-------|:-------|\n| Dubai is the largest and most populous city in the United  |        |        |        |\n| Arab Emirates. It is located on the southeast coast of the |        |        |        |\n| Persian Gulf and is the capital of the Emirate of Dubai,   |        |        |        |\n| one of the seven emirates that make up the country. Abu    |        |        |        |\n| Dhabi and Dubai are the only two emirates to have veto     |        |        |        |\n| power over critical matters of national importance in the  |        |        |        |\n| country's Federal Supreme Council. The city of Dubai is    |        |        |        |\n| located on the emirate's northern coastline and heads the  |        |        |        |\n| Dubai-Sharjah-Ajman metropolitan area.                     |        |        |        |",
+    "char_start": 27,
+    "char_end": 1016,
+    "token_count": 212,
+    "metadata": {
+      "doc_id": "2e83b26e-db41-4800-841b-44533e2bab0d",
+      "original_filename": "Dubai Brochure.pdf",
+      "title": null,
+      "heading_path": [],
+      "chunk_type": "table"
+    }
+  },
+  {
+    "chunk_id": "e2dd1800-5d38-44ff-b7e8-34c16bbf9563",
+    "parent_window_id": "none",
+    "segment_id": "none",
+    "chunk_text": "| Dubai Hotels                                       | Col1   |\n|:---------------------------------------------------|:-------|\n| Margie\u2019s Travel offers the following accommodation |        |\n| options in Dubai:                                  |        |",
+    "embed_text": "| Dubai Hotels                                       | Col1   |\n|:---------------------------------------------------|:-------|\n| Margie\u2019s Travel offers the following accommodation |        |\n| options in Dubai:                                  |        |",
+    "char_start": 27,
+    "char_end": 282,
+    "token_count": 38,
+    "metadata": {
+      "doc_id": "2e83b26e-db41-4800-841b-44533e2bab0d",
+      "original_filename": "Dubai Brochure.pdf",
+      "title": null,
+      "heading_path": [],
+      "chunk_type": "table"
+    }
+  },
+  {
+    "chunk_id": "f704de65-35ce-4d7d-a138-f2defa0c8042",
+    "parent_window_id": "none",
+    "segment_id": "none",
+    "chunk_text": "| The Creek Hotel                                          | Col1   | Col2   |\n|:---------------------------------------------------------|:-------|:-------|\n| Friendly boutique hotel within the heart of the bustling |        |        |\n| Dubai Creek area.                                        |        |        |",
+    "embed_text": "| The Creek Hotel                                          | Col1   | Col2   |\n|:---------------------------------------------------------|:-------|:-------|\n| Friendly boutique hotel within the heart of the bustling |        |        |\n| Dubai Creek area.                                        |        |        |",
+    "char_start": 422,
+    "char_end": 737,
+    "token_count": 51,
+    "metadata": {
+      "doc_id": "2e83b26e-db41-4800-841b-44533e2bab0d",
+      "original_filename": "Dubai Brochure.pdf",
+      "title": null,
+      "heading_path": [],
+      "chunk_type": "table"
+    }
+  },
+  {
+    "chunk_id": "31ef2fc7-7a64-4fef-84a4-da4f55a4b3bb",
+    "parent_window_id": "none",
+    "segment_id": "none",
+    "chunk_text": "| The Deira Hotel                                    | Col1   | Col2   |\n|:---------------------------------------------------|:-------|:-------|\n| Family-run hotel in Dubai\u2019s traditional commercial |        |        |\n| center.                                            |        |        |",
+    "embed_text": "| The Deira Hotel                                    | Col1   | Col2   |\n|:---------------------------------------------------|:-------|:-------|\n| Family-run hotel in Dubai\u2019s traditional commercial |        |        |\n| center.                                            |        |        |",
+    "char_start": 808,
+    "char_end": 1099,
+    "token_count": 49,
+    "metadata": {
+      "doc_id": "2e83b26e-db41-4800-841b-44533e2bab0d",
+      "original_filename": "Dubai Brochure.pdf",
+      "title": null,
+      "heading_path": [],
+      "chunk_type": "table"
+    }
+  },
+  {
+    "chunk_id": "fb2e9f38-00a6-4d04-925e-bb6f42d57011",
+    "parent_window_id": "none",
+    "segment_id": "none",
+    "chunk_text": "| The Lost City Hotel                           | Col1   | Col2   |\n|:----------------------------------------------|:-------|:-------|\n| Luxurious accommodation in Dubai, with onsite |        |        |\n| waterpark and aquarium.                       |        |        |",
+    "embed_text": "| The Lost City Hotel                           | Col1   | Col2   |\n|:----------------------------------------------|:-------|:-------|\n| Luxurious accommodation in Dubai, with onsite |        |        |\n| waterpark and aquarium.                       |        |        |",
+    "char_start": 422,
+    "char_end": 693,
+    "token_count": 52,
+    "metadata": {
+      "doc_id": "2e83b26e-db41-4800-841b-44533e2bab0d",
+      "original_filename": "Dubai Brochure.pdf",
+      "title": null,
+      "heading_path": [],
+      "chunk_type": "table"
+    }
+  },
+  {
+    "chunk_id": "83c87932-44f8-4b46-bea5-635fe3308cca",
+    "parent_window_id": "28c353d4-e37d-4566-9525-e791e6cca483",
+    "segment_id": "847dbc70-c032-4e5b-ac5d-82390b7d577c",
+    "chunk_text": "Margie\u2019s Travel Presents\u2026 \nDubai \n \n \nDubai is the largest and most populous city in the United \nArab Emirates. It is located on the southeast coast of the \nPersian Gulf and is the capital of the Emirate of Dubai, \none of the seven emirates that make up the country. Abu \nDhabi and Dubai are the only two emirates to have veto \npower over critical matters of national importance in the \ncountry's Federal Supreme Council. The city of Dubai is \nlocated on the emirate's northern coastline and heads the \nDubai-Sharjah-Ajman metropolitan area. \n \n \n \n \nDubai Hotels \nMargie\u2019s Travel offers the following accommodation \noptions in Dubai: \nThe Creek Hotel \nFriendly boutique hotel within the heart of the bustling \nDubai Creek area. \nThe Deira Hotel \nFamily-run hotel in Dubai\u2019s traditional commercial \ncenter. \nThe Lost City Hotel \nLuxurious accommodation in Dubai, with onsite \nwaterpark and aquarium. \n \n \n \nTo book your trip to Dubai, visit www.margiestravel.com",
+    "embed_text": "Margie\u2019s Travel Presents\u2026 \nDubai \n \n \nDubai is the largest and most populous city in the United \nArab Emirates. It is located on the southeast coast of the \nPersian Gulf and is the capital of the Emirate of Dubai, \none of the seven emirates that make up the country. Abu \nDhabi and Dubai are the only two emirates to have veto \npower over critical matters of national importance in the \ncountry's Federal Supreme Council. The city of Dubai is \nlocated on the emirate's northern coastline and heads the \nDubai-Sharjah-Ajman metropolitan area. \n \n \n \n \nDubai Hotels \nMargie\u2019s Travel offers the following accommodation \noptions in Dubai: \nThe Creek Hotel \nFriendly boutique hotel within the heart of the bustling \nDubai Creek area. \nThe Deira Hotel \nFamily-run hotel in Dubai\u2019s traditional commercial \ncenter. \nThe Lost City Hotel \nLuxurious accommodation in Dubai, with onsite \nwaterpark and aquarium. \n \n \n \nTo book your trip to Dubai, visit www.margiestravel.com",
+    "char_start": 0,
+    "char_end": 962,
+    "token_count": 220,
+    "metadata": {
+      "doc_id": "2e83b26e-db41-4800-841b-44533e2bab0d",
+      "original_filename": "Dubai Brochure.pdf",
+      "title": null,
+      "heading_path": [],
+      "chunk_type": "text"
+    }
+  }
+]

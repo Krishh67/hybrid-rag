@@ -1,0 +1,20 @@
+{
+  "doc_id": "bd0eb6dc-505b-4545-9eaa-bdca4511747a",
+  "source_path": "inputs\\invoice-1234.pdf",
+  "original_filename": "invoice-1234.pdf",
+  "file_type": "pdf",
+  "content_hash": "f464789723d2f4341a8df529c1168c1ba1e09a466b1aa51b1860218a7641cda7",
+  "full_text": "Contoso Ltd\n\n2 Main St, Bigtown, England, EH1 234\n\nInvoice No: 1234\n\nTel: 555 123-4567 Date: 03/07/2025\nCustomer Name: = John Smith\nAddress: 123 River Street\nMarshtown\nEngland\nGL1 234\nItem Price Quantity Item Total\n38mm Widget 24.50 2 49.00\n3.5mm screws pack 4.99 1 4.99\nLeft-handed screwdriver 7.49 1 7.49\nSubtotal 61.48\nTax 6.14\nShipping 15.00\nTotal Due 82.62\n\n",
+  "structure_tier": 3,
+  "headings": [],
+  "title": null,
+  "title_source": "none",
+  "page_count": 1,
+  "language": null,
+  "ocr_used": true,
+  "parser_used": "pdf_parser",
+  "tables": [],
+  "extraction_warnings": [],
+  "extraction_errors": [],
+  "metadata": {}
+}

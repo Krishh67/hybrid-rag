@@ -1,0 +1,87 @@
+[
+  {
+    "chunk_id": "25144be1-a200-4283-b759-cf81cfa7b292",
+    "parent_window_id": "none",
+    "segment_id": "none",
+    "chunk_text": "| Lond                                                                                              | Col1   |\n|:--------------------------------------------------------------------------------------------------|:-------|\n| London is the capital and                                                                         |        |\n| most populous city o                                                                              |        |\n| England and the United                                                                            |        |\n| Kingdom. Standing on the                                                                          |        |\n| River Thames in the south                                                                         |        |\n| east of the island of Great                                                                       |        |\n| Britain, London has been                                                                          |        |\n| a major settlement for two                                                                        |        |\n| millennia. It was founded                                                                         |        |\n| by the Romans, who                                                                                |        |\n| named it Londinium.                                                                               |        |\n| London's ancient core, the                                                                        |        |\n| City of London, largely                                                                           |        |\n| retains its 1.12-square-                                                                          |        |\n| mile medieval boundaries.                                                                         |        |\n| Since at least the 19th century, London has also referred to the metropolis around this core,     |        |\n| historically split between Middlesex, Essex, Surrey, Kent, and Hertfordshire, which today largely |        |\n| makes up Greater London, governed by the Mayor of London and the London Assembly.                 |        |",
+    "embed_text": "| Lond                                                                                              | Col1   |\n|:--------------------------------------------------------------------------------------------------|:-------|\n| London is the capital and                                                                         |        |\n| most populous city o                                                                              |        |\n| England and the United                                                                            |        |\n| Kingdom. Standing on the                                                                          |        |\n| River Thames in the south                                                                         |        |\n| east of the island of Great                                                                       |        |\n| Britain, London has been                                                                          |        |\n| a major settlement for two                                                                        |        |\n| millennia. It was founded                                                                         |        |\n| by the Romans, who                                                                                |        |\n| named it Londinium.                                                                               |        |\n| London's ancient core, the                                                                        |        |\n| City of London, largely                                                                           |        |\n| retains its 1.12-square-                                                                          |        |\n| mile medieval boundaries.                                                                         |        |\n| Since at least the 19th century, London has also referred to the metropolis around this core,     |        |\n| historically split between Middlesex, Essex, Surrey, Kent, and Hertfordshire, which today largely |        |\n| makes up Greater London, governed by the Mayor of London and the London Assembly.                 |        |",
+    "char_start": 27,
+    "char_end": 2246,
+    "token_count": 241,
+    "metadata": {
+      "doc_id": "9d3c7712-b7e7-4c00-908e-7ac01171e69b",
+      "original_filename": "London Brochure.pdf",
+      "title": null,
+      "heading_path": [],
+      "chunk_type": "table"
+    }
+  },
+  {
+    "chunk_id": "caa7236c-e45f-4231-903e-0bb079f64ab2",
+    "parent_window_id": "none",
+    "segment_id": "none",
+    "chunk_text": "| The Buckingham Hotel                                                                         | Col1   | Col2   |\n|:---------------------------------------------------------------------------------------------|:-------|:-------|\n| Comfortable hotel close to major sights like Buckingham Palace, Regent\u2019s Park, and Trafalgar |        |        |\n| Square.                                                                                      |        |        |",
+    "embed_text": "| The Buckingham Hotel                                                                         | Col1   | Col2   |\n|:---------------------------------------------------------------------------------------------|:-------|:-------|\n| Comfortable hotel close to major sights like Buckingham Palace, Regent\u2019s Park, and Trafalgar |        |        |\n| Square.                                                                                      |        |        |",
+    "char_start": 950,
+    "char_end": 1409,
+    "token_count": 62,
+    "metadata": {
+      "doc_id": "9d3c7712-b7e7-4c00-908e-7ac01171e69b",
+      "original_filename": "London Brochure.pdf",
+      "title": null,
+      "heading_path": [],
+      "chunk_type": "table"
+    }
+  },
+  {
+    "chunk_id": "c3d5f21a-e321-495a-abd7-5e481cd44870",
+    "parent_window_id": "none",
+    "segment_id": "none",
+    "chunk_text": "| The City Hotel                                                                              | Col1   |\n|:--------------------------------------------------------------------------------------------|:-------|\n| Luxury rooms in the city, within walking distance of Tower Bridge and the Tower of London.. |        |",
+    "embed_text": "| The City Hotel                                                                              | Col1   |\n|:--------------------------------------------------------------------------------------------|:-------|\n| Luxury rooms in the city, within walking distance of Tower Bridge and the Tower of London.. |        |",
+    "char_start": 950,
+    "char_end": 1264,
+    "token_count": 40,
+    "metadata": {
+      "doc_id": "9d3c7712-b7e7-4c00-908e-7ac01171e69b",
+      "original_filename": "London Brochure.pdf",
+      "title": null,
+      "heading_path": [],
+      "chunk_type": "table"
+    }
+  },
+  {
+    "chunk_id": "891f1e26-c259-4292-919b-6c4c43c53ffc",
+    "parent_window_id": "none",
+    "segment_id": "none",
+    "chunk_text": "| The Kensington Hotel                    | Col1   |\n|:----------------------------------------|:-------|\n| Budget accommodation near Earl\u2019s Court. |        |",
+    "embed_text": "| The Kensington Hotel                    | Col1   |\n|:----------------------------------------|:-------|\n| Budget accommodation near Earl\u2019s Court. |        |",
+    "char_start": 950,
+    "char_end": 1108,
+    "token_count": 29,
+    "metadata": {
+      "doc_id": "9d3c7712-b7e7-4c00-908e-7ac01171e69b",
+      "original_filename": "London Brochure.pdf",
+      "title": null,
+      "heading_path": [],
+      "chunk_type": "table"
+    }
+  },
+  {
+    "chunk_id": "503c1c4a-33b8-42df-85f6-41ad0e80a90f",
+    "parent_window_id": "cb6c34d2-b7d4-4c6d-bdd2-4253e473f071",
+    "segment_id": "2f71e249-2214-427f-8c08-1084b664de36",
+    "chunk_text": "Margie\u2019s Travel Presents\u2026 \nLondon \nLondon is the capital and \nmost populous city of \nEngland and the United \nKingdom. Standing on the \nRiver Thames in the south \neast of the island of Great \nBritain, London has been \na major settlement for two \nmillennia. It was founded \nby the Romans, who \nnamed it Londinium. \nLondon's ancient core, the \nCity of London, largely \nretains its 1.12-square-\nmile medieval boundaries. \nSince at least the 19th century, London has also referred to the metropolis around this core, \nhistorically split between Middlesex, Essex, Surrey, Kent, and Hertfordshire, which today largely \nmakes up Greater London, governed by the Mayor of London and the London Assembly. \n \nMostly popular for: \nLeisure, Outdoors, Historical, Arts \n& Culture \n \nBest time to visit: \nJun-Aug  \nAverag Precipitation: 1.9 in \nAverage Temperature: 56-67\u00b0F  \n \n \nLondon Hotels \nMargie\u2019s Travel offers the following accommodation options in London: \nThe Buckingham Hotel \nComfortable hotel close to major sights like Buckingham Palace, Regent\u2019s Park, and Trafalgar \nSquare. \nThe City Hotel \nLuxury rooms in the city, within walking distance of Tower Bridge and the Tower of London.. \nThe Kensington Hotel \nBudget accommodation near Earl\u2019s Court. \nTo book your trip to London, visit www.margiestravel.com",
+    "embed_text": "Margie\u2019s Travel Presents\u2026 \nLondon \nLondon is the capital and \nmost populous city of \nEngland and the United \nKingdom. Standing on the \nRiver Thames in the south \neast of the island of Great \nBritain, London has been \na major settlement for two \nmillennia. It was founded \nby the Romans, who \nnamed it Londinium. \nLondon's ancient core, the \nCity of London, largely \nretains its 1.12-square-\nmile medieval boundaries. \nSince at least the 19th century, London has also referred to the metropolis around this core, \nhistorically split between Middlesex, Essex, Surrey, Kent, and Hertfordshire, which today largely \nmakes up Greater London, governed by the Mayor of London and the London Assembly. \n \nMostly popular for: \nLeisure, Outdoors, Historical, Arts \n& Culture \n \nBest time to visit: \nJun-Aug  \nAverag Precipitation: 1.9 in \nAverage Temperature: 56-67\u00b0F  \n \n \nLondon Hotels \nMargie\u2019s Travel offers the following accommodation options in London: \nThe Buckingham Hotel \nComfortable hotel close to major sights like Buckingham Palace, Regent\u2019s Park, and Trafalgar \nSquare. \nThe City Hotel \nLuxury rooms in the city, within walking distance of Tower Bridge and the Tower of London.. \nThe Kensington Hotel \nBudget accommodation near Earl\u2019s Court. \nTo book your trip to London, visit www.margiestravel.com",
+    "char_start": 0,
+    "char_end": 1303,
+    "token_count": 313,
+    "metadata": {
+      "doc_id": "9d3c7712-b7e7-4c00-908e-7ac01171e69b",
+      "original_filename": "London Brochure.pdf",
+      "title": null,
+      "heading_path": [],
+      "chunk_type": "text"
+    }
+  }
+]

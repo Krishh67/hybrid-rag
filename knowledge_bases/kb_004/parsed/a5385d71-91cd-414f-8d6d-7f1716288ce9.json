@@ -1,0 +1,61 @@
+{
+  "doc_id": "a5385d71-91cd-414f-8d6d-7f1716288ce9",
+  "source_path": "inputs\\A154_ResearchPaper.pdf",
+  "original_filename": "A154_ResearchPaper.pdf",
+  "file_type": "pdf",
+  "content_hash": "0926d4b2480537b5f6191d502dce54678787d7d8a2c0f1cad7545e0158748369",
+  "full_text": "1 \n \n \n~By  \nKrish Patel : A-154 \nBhagyashree Patil : A-163 \n \nParth Hule : A-155 \n \n \nAbstract— Image enhancement is a critical step in digital \nimage processing, aimed at improving the visual appearance \nor making images more suitable for analysis. This paper \nexplores the application of the Fourier Transform (FT) for \nimage enhancement. The FT is a powerful mathematical tool \nthat decomposes an image into its sinusoidal components. By \nmanipulating the frequency domain, significant improvements \nin image quality, edge sharpness, and noise reduction can be \nachieved. The research presents various techniques, \nimplementation steps, and the benefits of frequency-based \nimage enhancement, particularly focusing on the removal of \nperiodic noise and enhancement of image details. \n \nINDEX TERMS— KEYWORDS \nImage Enhancement, Fourier Transform, Frequency Domain, \nNoise Removal, Edge Detection. \n \n \nI. INTRODUCTION \nDigital image processing involves techniques to \nimprove image quality for better human perception or \nmachine interpretation. Image enhancement focuses on \nhighlighting certain features of interest in an image or \nsuppressing unwanted distortions. Spatial domain methods \nmodify pixel values directly, while frequency domain \nmethods, such as those using the Fourier Transform, work on \nthe image's frequency content, offering unique advantages in \nprocessing periodic patterns and reducing noise. \n \nII Image Storage in the Spatial Domain \nDigital images are commonly stored in the spatial domain, \nwhere each pixel’s position directly corresponds to its \nintensity value. An image is represented as a 2D array \nf(x,y)f(x, y)f(x,y), where xxx and yyy represent the spatial \ncoordinates and the value at each location signifies the \nbrightness or color of that pixel. Spatial domain methods \nmanipulate these pixel values directly to perform operations \nlike contrast enhancement, sharpening, and blurring. \n \n \n \n \nIII  FOURIER TRANSFORM IN IMAGE PROCESSING \nThe Fourier Transform converts spatial domain images into \nthe frequency domain, allowing us to analyze the image content \nbased on frequency components. High frequencies represent \nedges and fine details, while low frequencies indicate smooth \nvariations like background lighting Fig. 1.  \nImage Enhancement using Fourier Transform\nT\n\n2 \n \n \n3.1 Discrete Fourier Transform (DFT) \nThe DFT is used for image processing in computers and is \ngiven by: \n  \n \nWhere: \no \nf(x,y)f(x,y)f(x,y): Input image in spatial \ndomain \no \nF(u,v)F(u,v)F(u,v): Image in frequency \ndomain \no \nH(u,v)H(u,v)H(u,v): Filter function \no \nG(u,v)G(u,v)G(u,v): Filtered frequency \nspectrum \no \ng(x,y)g(x,y)g(x,y): Enhanced image in \nspatial domain \n \n3.2 Fast Fourier Transform (FFT) \nFFT is an efficient implementation of DFT, significantly \nreducing computation time, which is critical for real-time \nprocessing. \n \n \nArchitecture \n \n \n \n \n \n \n \n \n \nA. Abbreviations and Acronyms \nAbbreviation\nFull Form \nDFT\nDiscrete Fourier Transform\nAbbreviation\nFull Form \nFFT\nFast Fourier Transform\nFT\nFourier Transform\nIFT\nInverse Fourier Transform\nLLIE\nLow-Light Image Enhancement\nSNR\nSignal-to-Noise Ratio\nCNN\nConvolutional Neural Network\nGAN\nGenerative Adversarial Network\n. \nIII. MATH \n  \n\n3 \n \n \n \n \n \n \n \nB. Algorithms \n1. To analyze the frequency components of a grayscale \nimage, the image is first converted to the frequency domain \nusing the 2D Discrete Fourier Transform (DFT). This \nprocess transforms the image from the spatial domain—where \npixel intensities are directly interpreted—to the frequency \ndomain, where each point represents a particular frequency \ncontained in the spatial image. \n \n2. Applied high Pass filter  \n \nA \nhigh-pass \nfilter \n(HPF) \nallows \nhigh-frequency \ncomponents to pass through while attenuating or blocking low-\nfrequency components such as gradual changes in intensity. \nThis makes the filter particularly effective in edge \nenhancement and highlighting fine details in an image. \n3. Can Also Apply low pass filter  \n \nA low-pass filter (LPF) allows low-frequency \ncomponents to pass through while attenuating the \nhigh-frequency components of the image. This \n\n4 \n \noperation smoothens the image by reducing sharp \ntransitions such as noise and edges. \n \n4.Enhancing Filter Response by Adding a Constant (0.75) \n \nTo refine the performance of both high-pass and low-pass \nfilters, a constant value (e.g., 0.75) can be added to the filter \nfunction. This technique is used to tune the filter's strength \nor to avoid extreme suppression of certain frequency \ncomponents. Such adjustments help preserve important visual \ndetails that might otherwise be lost. \nACKNOWLEDGMENT \nThe authors thank the faculty : RAHUL KODAG \nSir and RANJIT DHUNDE Sir for their continuous \nsupport and guidance throughout the research. The \nauthors also appreciate the contributions of peers \nand colleagues who provided helpful insights and \nfeedback. \n \nREFERENCES \n[1] R. Gonzalez and R. Woods, \"Digital Image \nProcessing,\" 4th ed., Pearson, 2018, pp. 45–88. \n[2] A. Jain, “Fundamentals of Digital Image \nProcessing,” Englewood Cliffs, NJ, USA: Prentice-\nHall, 1989, pp. 112–145. \n[3] R. C. Gonzalez, R. E. Woods, and S. L. Eddins, \n\"Digital Image Processing Using MATLAB,\" 3rd \ned., McGraw-Hill Education, 2014. \n[4] M. Sonka, V. Hlavac, and R. Boyle, “Image \nProcessing, Analysis, and Machine Vision,” 3rd ed., \nCengage Learning, 2008. \n[5] D. Marr and E. Hildreth, “Theory of edge \ndetection,” Proc. R. Soc. Lond. B Biol. Sci., vol. \n207, no. 1167, pp. 187–217, 1980. \n \n",
+  "structure_tier": 2,
+  "headings": [
+    {
+      "level": 1,
+      "text": "Abbreviation",
+      "char_offset": 2912
+    },
+    {
+      "level": 1,
+      "text": "Full Form",
+      "char_offset": 2953
+    },
+    {
+      "level": 1,
+      "text": "low-pass filter (LPF)",
+      "char_offset": 4016
+    },
+    {
+      "level": 1,
+      "text": "low-frequency",
+      "char_offset": 4045
+    },
+    {
+      "level": 1,
+      "text": "components",
+      "char_offset": 4060
+    },
+    {
+      "level": 1,
+      "text": "high-frequency components",
+      "char_offset": 4110
+    },
+    {
+      "level": 1,
+      "text": "ACKNOWLEDGMENT",
+      "char_offset": 4653
+    },
+    {
+      "level": 1,
+      "text": "REFERENCES",
+      "char_offset": 4928
+    }
+  ],
+  "title": "Abbreviation",
+  "title_source": "heuristic",
+  "page_count": 4,
+  "language": null,
+  "ocr_used": false,
+  "parser_used": "pdf_parser",
+  "tables": [],
+  "extraction_warnings": [],
+  "extraction_errors": [],
+  "metadata": {}
+}

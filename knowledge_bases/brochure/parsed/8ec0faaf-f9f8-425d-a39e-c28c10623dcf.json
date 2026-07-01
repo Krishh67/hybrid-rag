@@ -1,0 +1,45 @@
+{
+  "doc_id": "8ec0faaf-f9f8-425d-a39e-c28c10623dcf",
+  "source_path": "inputs\\Las Vegas Brochure.pdf",
+  "original_filename": "Las Vegas Brochure.pdf",
+  "file_type": "pdf",
+  "content_hash": "f051ac81867b48318223e6c3616c93446476e5b950f51cffba8c59b0b7f9f343",
+  "full_text": "Margie’s Travel Presents… \nLas Vegas \n Las Vegas, officially \nthe City of Las Vegas \nand often known \nsimply as Vegas, is the \n28th-most populated \ncity in the United \nStates, the most \npopulated city in the \nstate of Nevada, and \nthe county seat of \nClark County. The city \nanchors the Las Vegas \nValley metropolitan \narea and is the largest \ncity within the greater Mojave Desert. Las Vegas is an internationally renowned major resort city, \nknown primarily for its gambling, shopping, fine dining, entertainment, and nightlife. The Las Vegas \nValley as a whole serves as the leading financial, commercial, and cultural center for Nevada. \nLas Vegas Hotels \nMargie’s Travel offers the \nfollowing hotels in Las \nVegas: \nThe Volcano Hotel \nIn the heart of The Strip. \nStylish casino hotel with \nlive entertainment and an \nextensive pool area. \nThe Fountain Hotel \nLuxury accommodation in \nLas Vegas with a range of \nrestaurants and cocktail \nbars \nThe Canal Hotel \nAn opulent Italian-themed \nresort with luxurious suite \naccommodation. \n \nTo book your trip to Las Vegas, visit www.margiestravel.com \n \n",
+  "structure_tier": 3,
+  "headings": [],
+  "title": null,
+  "title_source": "none",
+  "page_count": 1,
+  "language": null,
+  "ocr_used": false,
+  "parser_used": "pdf_parser",
+  "tables": [
+    {
+      "page": 1,
+      "markdown": "| the county seat of                                                                                   | Col1   |\n|:-----------------------------------------------------------------------------------------------------|:-------|\n| Clark County. The city                                                                               |        |\n| anchors the Las Vega                                                                                 |        |\n| Valley metropolitan                                                                                  |        |\n| area and is the larges                                                                               |        |\n| city within the greater Mojave Desert. Las Vegas is an internationally renowned major resort city    |        |\n| known primarily for its gambling, shopping, fine dining, entertainment, and nightlife. The Las Vegas |        |\n| Valley as a whole serves as the leading financial, commercial, and cultural center for Nevada.       |        |",
+      "char_start": null,
+      "char_end": null
+    },
+    {
+      "page": 1,
+      "markdown": "| The Volcano Hotel         | Col1   |\n|:--------------------------|:-------|\n| In the heart of The Strip |        |\n| Stylish casino hotel with |        |\n| live entertainment and an |        |\n| extensive pool area.      |        |",
+      "char_start": null,
+      "char_end": null
+    },
+    {
+      "page": 1,
+      "markdown": "| The Fountain Hotel       | Col1   |\n|:-------------------------|:-------|\n| Luxury accommodation in  |        |\n| Las Vegas with a range o |        |\n| restaurants and cocktail |        |\n| bars                     |        |",
+      "char_start": null,
+      "char_end": null
+    },
+    {
+      "page": 1,
+      "markdown": "| The Canal Hotel             | Col1   |\n|:----------------------------|:-------|\n| An opulent Italian-themed   |        |\n| resort with luxurious suite |        |\n| accommodation.              |        |",
+      "char_start": null,
+      "char_end": null
+    }
+  ],
+  "extraction_warnings": [],
+  "extraction_errors": [],
+  "metadata": {}
+}

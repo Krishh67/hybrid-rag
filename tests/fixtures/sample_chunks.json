@@ -1,0 +1,53 @@
+[
+  {
+    "chunk_id": "00000000-0000-0000-0000-000000000001",
+    "parent_window_id": "00000000-0000-0000-0000-000000000000",
+    "segment_id": "00000000-0000-0000-0000-000000000000",
+    "chunk_text": "The study examined mobile device usage patterns among language learners.",
+    "embed_text": "Title: Mobile Learning | Introduction | The study examined mobile device usage patterns among language learners.",
+    "char_start": 0,
+    "char_end": 70,
+    "token_count": 20,
+    "metadata": {
+      "doc_id": "test-doc-001",
+      "original_filename": "sample.pdf",
+      "title": "Mobile Learning",
+      "heading_path": ["Introduction"],
+      "chunk_type": "text"
+    }
+  },
+  {
+    "chunk_id": "00000000-0000-0000-0000-000000000002",
+    "parent_window_id": "00000000-0000-0000-0000-000000000000",
+    "segment_id": "00000000-0000-0000-0000-000000000000",
+    "chunk_text": "Results showed 85% of participants used smartphones daily.",
+    "embed_text": "Title: Mobile Learning | Results | Results showed 85% of participants used smartphones daily.",
+    "char_start": 71,
+    "char_end": 128,
+    "token_count": 18,
+    "metadata": {
+      "doc_id": "test-doc-001",
+      "original_filename": "sample.pdf",
+      "title": "Mobile Learning",
+      "heading_path": ["Results"],
+      "chunk_type": "text"
+    }
+  },
+  {
+    "chunk_id": "00000000-0000-0000-0000-000000000003",
+    "parent_window_id": "00000000-0000-0000-0000-000000000000",
+    "segment_id": "00000000-0000-0000-0000-000000000000",
+    "chunk_text": "| Year | Student | Device |\n|------|---------|--------|\n| 2023 | S1 | smartphone |",
+    "embed_text": "Title: Mobile Learning | Participants | | Year | Student | Device |\n|------|---------|--------|\n| 2023 | S1 | smartphone |",
+    "char_start": 129,
+    "char_end": 230,
+    "token_count": 25,
+    "metadata": {
+      "doc_id": "test-doc-001",
+      "original_filename": "sample.pdf",
+      "title": "Mobile Learning",
+      "heading_path": ["Participants"],
+      "chunk_type": "table"
+    }
+  }
+]

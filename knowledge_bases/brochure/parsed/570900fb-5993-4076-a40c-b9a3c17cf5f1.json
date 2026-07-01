@@ -1,0 +1,33 @@
+{
+  "doc_id": "570900fb-5993-4076-a40c-b9a3c17cf5f1",
+  "source_path": "inputs\\San Francisco Brochure.pdf",
+  "original_filename": "San Francisco Brochure.pdf",
+  "file_type": "pdf",
+  "content_hash": "a6c384253669c62dd49314c0808d55e1d34b0b53648a8d64bbc652bc9e578deb",
+  "full_text": "Margie’s Travel Presents… \nSan Francisco \nSan Francisco, officially the City and County of San \nFrancisco, is the cultural, commercial, and financial \ncenter of Northern California. It is the birthplace of \nthe United Nations. Located at the north end of the \nSan Francisco Peninsula, San Francisco is about \n47.9 square miles in area, making it the smallest \ncounty—and the only consolidated city-county—\nwithin the state of California. With a density of about \n18,581 people per square mile, San Francisco is the \nmost densely settled large city in California and the \nsecond-most densely populated major city in the \nUnited States after New York City. San Francisco is \nthe fourth-most populous city in California, after Los \nAngeles, San Diego, and San Jose, and the 13th-\nmost populous city in the United States—with a \ncensus-estimated 2016 population of 870,887. The \ncity and its surrounding areas are known as the San \nFrancisco Bay Area, and are a part of the larger \nOMB-designated San Jose-San Francisco-Oakland \ncombined statistical area, the fifth most populous in \nthe nation with an estimated population of 8.7 million. \n \nSan Francisco Hotels \nMargie’s Travel offers the following accommodation options \nin San Francisco: \nThe Lombard Hotel \nFriendly, family-run hotel within easy walking distance to \npopular sights, including the Golden Gate Bridge and the \nPresidio. Free Parking. \nThe Wharf Hotel \nGreat value accommodation in the heart of the vibrant \nFisherman’s Wharf area. Continental Breakfast included. \n \n \n \n \nTo book your trip to San Francisco, visit www.margiestravel.com \n \n",
+  "structure_tier": 3,
+  "headings": [],
+  "title": null,
+  "title_source": "none",
+  "page_count": 1,
+  "language": null,
+  "ocr_used": false,
+  "parser_used": "pdf_parser",
+  "tables": [
+    {
+      "page": 1,
+      "markdown": "| San Francisco Hotels                                       | Col1   |\n|:-----------------------------------------------------------|:-------|\n| Margie’s Travel offers the following accommodation options |        |\n| in San Francisco:                                          |        |",
+      "char_start": null,
+      "char_end": null
+    },
+    {
+      "page": 1,
+      "markdown": "| The Lombard Hotel                                          | Col1   | Col2   |\n|:-----------------------------------------------------------|:-------|:-------|\n| Friendly, family-run hotel within easy walking distance to |        |        |\n| popular sights, including the Golden Gate Bridge and the   |        |        |\n| Presidio. Free Parking.                                    |        |        |",
+      "char_start": null,
+      "char_end": null
+    }
+  ],
+  "extraction_warnings": [],
+  "extraction_errors": [],
+  "metadata": {}
+}

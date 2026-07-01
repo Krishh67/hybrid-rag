@@ -1,0 +1,20 @@
+{
+  "doc_id": "3ec33591-7749-4a65-8c81-c5db1ff8a46d",
+  "source_path": "inputs\\invoice-1235.pdf",
+  "original_filename": "invoice-1235.pdf",
+  "file_type": "pdf",
+  "content_hash": "253dc6621b7e54601da362bd89de51ed0de95f869995a8e1de256b64ecaa0239",
+  "full_text": "Contoso Ltd\n\n2 Main St, Bigtown, England, EH1 234\n\nTel: 555 123-4567\n\nCustomer Name:\nAddress:\n\nItem\n42mm Widget\n\n5mm screws pack\n\nAva Jones\n\n321 Pond Lane\nWaterville\nEngland\n\nGL1 010\n\nPrice\n26.50\n5.99\n\nInvoice No: = 1235\n\nDate: 03/07/2025\nQuantity Item Total\n3 79.50\n2 11.98\nSubtotal 91.48\nTax 9.14\nShipping 15.00\nTotal Due 115.62\n\n",
+  "structure_tier": 3,
+  "headings": [],
+  "title": null,
+  "title_source": "none",
+  "page_count": 1,
+  "language": null,
+  "ocr_used": true,
+  "parser_used": "pdf_parser",
+  "tables": [],
+  "extraction_warnings": [],
+  "extraction_errors": [],
+  "metadata": {}
+}
