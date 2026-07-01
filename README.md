@@ -21,7 +21,8 @@ An advanced Retrieval-Augmented Generation (RAG) system built for robustness, ac
 
 ### Phase 2: Hybrid Retrieval & Generation Pipeline
 <!-- RETRIEVAL ARCHITECTURE IMAGE PLACEHOLDER -->
-<img width="1811" height="524" alt="image" src="https://github.com/user-attachments/assets/d6d06e78-647d-4074-a666-a71b3027113b" />
+<img width="1818" height="487" alt="image" src="https://github.com/user-attachments/assets/5cc28be9-0f49-4d8e-83e4-8d18f0c3b74c" />
+
 
 
 1. **Query Rewriting**: Expands the user's query into multiple semantic variants using the LLM to maximize recall.
@@ -92,7 +93,7 @@ The `main.py` script serves as the primary orchestrator for the backend pipeline
 ### 2. Streamlit Web Interface
 The project includes a fully-featured, dynamic web interface for managing knowledge bases, uploading files, and chatting with your documents.
 
-**CRITICAL NOTE FOR WINDOWS USERS:** 
+**NOTE FOR WINDOWS USERS:** 
 Do *not* run `streamlit run app.py` directly. You **must** use the `run.py` launcher. The launcher safely initializes PyTorch and FAISS C++ OpenMP thread pools on the absolute main thread before Streamlit boots up. Failing to use the launcher will result in a fatal `Exit Code 1` C++ thread abort when querying.
 
 * **Start the App:**
